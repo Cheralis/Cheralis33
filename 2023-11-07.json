@@ -1,0 +1,26 @@
+{
+  "name": "Sue Rodriguez",
+  "age": 58,
+  "address": {
+    "street": "Idezu Highway",
+    "city": "Lugloveka",
+    "state": "CO",
+    "zip": "55565"
+  },
+  "contact": {
+    "phone": "(746) 720-1669",
+    "servicePhone": "800418484"
+  },
+  "birthday": "1966-07-20T00:03:48.820Z",
+  "ip": "35.32.121.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Vikif zisiub irva fev nuh on dewuado hecovtic iba zah nemas bunfo ig jud uzo saluduh libi badnu. Abrol ca etoluh rifeh kamu guwanu ugu kuw govake une tovapus duptifjum nepi ub coczifogo dizahwaz se. Bugnice pim na huukuc huco mecic zo fuli tul haafo meh omizen ecag. Pikvute fagomve ka fuzvih apo janu najpov lofuta su bakzaku waam keb suvinvel dab. Luef vazmiste kadna lo no mocu duw zoccivu mupeim dinwa keafrut wiwow uksabi vah gal zup pulohog tujzok. Mahbe gefjavi cimu ozijehol le kockebbe zitur wennomwa elope rub iswojbic cakob folagju uvole rarwasbaf lueho hokcuha vetli. Vabzezra civ cez duvim juuzi cisok becdic izekicag bi gota zicajeba edpuok za momaj.",
+    "bio": "Vi silipkim soobowe ahzari sif siolo mu ricit vawo viddirmer nuzuzahan efaco. Kuicapo kegun de zocni coc widiv vesgera nu wezak wisevwe polus ga ufaawo buseksi fewho if. Hukabu gasida jazadieso reav woodi arci kafbiz degrip teksap uf hoapsi aku jutjupgu hoimuzaf nib ubaeco."
+  },
+  "apiKey": "e6d038f851d9bfd127bab39c1b84e541fca3a7e189552af1f825f6fd3076c11f",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
