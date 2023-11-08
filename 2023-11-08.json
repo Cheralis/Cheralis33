@@ -1,0 +1,26 @@
+{
+  "name": "Troy Hernandez",
+  "age": 41,
+  "address": {
+    "street": "Wuci Plaza",
+    "city": "Gohvawi",
+    "state": "SD",
+    "zip": "43645"
+  },
+  "contact": {
+    "phone": "(525) 564-8803",
+    "servicePhone": "800788964"
+  },
+  "birthday": "1980-01-31T13:46:12.139Z",
+  "ip": "29.83.109.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa dakragsim vi bipfaeji mu tehiblo umooreaze lecjefod za nuwlaj gurwaca hag zehwatak lo gi soul kouv neotmi. Guj eplat tisawi gev umwo raav mu nafgow kumkodmok cug hozsoc ub. Vec gejwobad coactes wofija jehvafe urfug no vic fec vijur mepiku uhu enerilun zarcu.",
+    "bio": "Sahkuf unauwi igjep bowaze tep naoteho dacawjen pomalati ubvolaf zutuwa azrina ti. Ze jotef nihma gogdommap culo tahkohawi aco tenejkat levumad den ejlazdi seom tucfasom akjajgi ke dornoszuh. Efi foj ilmoda pufzac tadra suciz dadohoh ji votu cumike cenoni be ninaffe fosoena aki juhhin le lipba. Bisur zo faj satkif lud le isi za evu tarcuz ju ucmos."
+  },
+  "apiKey": "edaead4bab8aaf0bba6b841e85e61ba9b281448cc1dd8e26597252943746e6cf",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
