@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Mason",
+  "age": 64,
+  "address": {
+    "street": "Siska Highway",
+    "city": "Igumuhez",
+    "state": "MO",
+    "zip": "48424"
+  },
+  "contact": {
+    "phone": "(887) 513-9467",
+    "servicePhone": "800185143"
+  },
+  "birthday": "2002-08-03T16:32:36.540Z",
+  "ip": "21.68.201.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Terol magdu vezmim fog kupno ze lushi fespabju iboam pebna fe iwu fifki iweaseor dofewimab. Useuve guk kerogof kezirnub go jecdiwi jojiwfo obounake hofa rubepif kihgen me hugpavoz fevmuboz jet ucuvi. Genrah zaphe ga mucuk refwiza barte ov usuruoni gosiv ivo hadum ojoenoeso saw mezodufi vefane gu ubamop.",
+    "bio": "Poklu onoena mos ukejap nu kal ebi ber rapa sovriwu merun vewankah suzhuoh. Jaclepa elecahfo pih dap han afi jokzevas vod upogabze nugtidek ziowgi gupdi cuvve go obeomka ri. Fif mewek hapudu sumcejuv irideap sup leirwi hiterpaw luf edodob so vul do. Ifevipba sus vu vaho paeclem rocuhpom lucolar favinar ci abdek ha si zi. Late mukiuje jevtin opelup if izaibja bucus corijo tenokwi teb ihminin hihsud fuc ve rohdervaw. Zeapir sawen urepa funzuwik itiza irena wurepa bidaz sewi luunazis he alusier ofomul ta kizogjab. Fokibhu moupoges neomajok vatla numgok rusub zomonlo haruvid suv sulojol bujmi zuif gacfe huubovob udkiptuh envon firuwicih."
+  },
+  "apiKey": "bb64965508db450da679243d2e0d7ad887f4871a111d0c0676fdb1d096c65f4e",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
