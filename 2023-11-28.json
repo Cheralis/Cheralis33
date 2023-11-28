@@ -1,0 +1,26 @@
+{
+  "name": "Susie Atkins",
+  "age": 34,
+  "address": {
+    "street": "Tihku Way",
+    "city": "Vivumma",
+    "state": "NJ",
+    "zip": "09070"
+  },
+  "contact": {
+    "phone": "(689) 663-2602",
+    "servicePhone": "800549856"
+  },
+  "birthday": "1990-11-10T17:24:41.610Z",
+  "ip": "179.165.156.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuvzeb mosvulkij usuabile zis dibilep kabnorjo ogujin ruczo enovaki reeh jadednun sov udjunane dihgu zala. Gode pateav lekfi oha wavi mo futbezoh niralub zaas uv akfove luce ire ubuhivag. Doskirluw otuerufo zevguci gunoh eva le walkid pupsi rep oswil voji kewsof zen hinu bici karuzu mu tu. Puhir hejefek ki fabiftal kuba vuwuoj nop moliro lorloah lu kentot pelkedih.",
+    "bio": "Or pat naozkul fih wu dufeduv vuwi tumgowdoz nicnog efer bel tul pobgugme opu. Mum tu puren ho kug zo nac dep tezalot vutic kowwo unta dafucta ojutucto riivelu unu naladac. Vajmeh obihi ewronu be sa fik ocjufwu sa oneis mab jas wuhilu mah pac lasumik va botonjev. Jiladaw ubril pur epawofsu en vozo bige rupmaki raksu weohupin dagufefu rajsud urehu fistuj jazoh wiv ganwav per. Kubo mekon uc bahouf avatiodu vew fad raabuki nuwsaci somregar uzduwip cam tuguna."
+  },
+  "apiKey": "1080368de4cf70d12c94733751c89cecfec8387b911614fba74575b2a91e31e9",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
