@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Brooks",
+  "age": 64,
+  "address": {
+    "street": "Road Place",
+    "city": "Tivelte",
+    "state": "FL",
+    "zip": "84863"
+  },
+  "contact": {
+    "phone": "(375) 857-8099",
+    "servicePhone": "800653141"
+  },
+  "birthday": "1999-03-19T03:07:05.874Z",
+  "ip": "212.68.118.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Ofi ze sad hecadner uror nior jon vo sawu elafe vehurfap heb nazfug. Wudafzu hombe rigfedzo sa zez codavzi rihaize gejum tije dagag kacgad solkak lulpoew dodrir. Set jikki jomecah pilzahren veb podiof hewemze oreutovi zu foifu wubac ko zonogi azueg. Evladman okevoje sazcouli netweruko jibvir nev iw upoifbih inife ersavfof zihu hoteh tip ci sibgovna geh.",
+    "bio": "Latlerkof ceotdaf pokaap ro ig zoz to woftegzat zi polakid vehegoip nugjade nanumuwop bouleni. Uvbi igvi pokodhu odamelek dusulafa hit zebobu puz naljele ez zebija lugouz kof nuggavi. Ju dotfowa mop gitol ke unviw ojasev bum ujaipu ojo pe de."
+  },
+  "apiKey": "79148524a83e179b42b7e573ca0b2a7a9145c23582c161a1f28125cce5617750",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
