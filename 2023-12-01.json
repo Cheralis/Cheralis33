@@ -1,0 +1,26 @@
+{
+  "name": "Lloyd Lloyd",
+  "age": 29,
+  "address": {
+    "street": "Etiso Center",
+    "city": "Gotabvu",
+    "state": "NC",
+    "zip": "31352"
+  },
+  "contact": {
+    "phone": "(502) 876-2937",
+    "servicePhone": "800589326"
+  },
+  "birthday": "2004-12-09T13:33:10.781Z",
+  "ip": "56.153.28.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Fulofun fiw nob gaihe casekput kekefzi ih jozer ono koraz veg okeladan zinweneh doifues tisog ovuju parma. Riw zoader pigo leh sekhoeni uza hosero job debufoze unse oh dorjotho. Awu podmeni nacwuke za zamkep ejtosev zujbopji ki roguzuv gibina ko dade uk va.",
+    "bio": "Buldumluj veup rabbigol henuhe eja meid ud coot kifsome rosa cejozer tumekoh evodewi tujoto. Va cadoh jago ah jogalso fucwevgo fotomib peaf mejez fip te omadutpo zita refvavone pavij. Ci ziwetouhu sozmu hukruk rirefuf bowoz zuj lib apiib diwdom evul jo. Ze bizjiaf tuudeibu alohobo nomud ot uslu edi gensuata juzigtal ijesahna bufenhuz."
+  },
+  "apiKey": "f1328baf3fad0a336438790cb6048b1a83193c5affa55b3181498c384022daae",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
