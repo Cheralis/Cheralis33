@@ -1,0 +1,26 @@
+{
+  "name": "Lloyd Reid",
+  "age": 24,
+  "address": {
+    "street": "Nobbe Turnpike",
+    "city": "Begbemer",
+    "state": "MD",
+    "zip": "89315"
+  },
+  "contact": {
+    "phone": "(417) 800-2024",
+    "servicePhone": "800518628"
+  },
+  "birthday": "1973-07-13T16:09:47.685Z",
+  "ip": "171.216.56.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Ge fanmun hubniic bul jez nesu lovuzjig ko oda merag wahefma abivuda hillopjaw gukso da hini faowi. Gaspah kefboc hiseg jes cefif rercej ze po ehvotvoz rojotok kesarab olobug vuuw. Vivdup hadam ili bipejwa utaj gosidoz pem holfo ha zo vim fila pedo. Jujevovu limmih carit gipjo waapovu catit iju meb jil we meludbok kise rof je mihelaebi del.",
+    "bio": "Hepfe lufgu owmozri ukinigni buneskiv wihdudjil uriloljo zeg te no deki seowcut. Degfo lufkikra pamip natdafobo dupasrab am kepu pehvato hitag jelpoale wej cussilu dappe ozalecapu vegfucuf tapiz. Otdeb cotpitda doc vij ufadi aki guuc hu soviedo petsevu uduorumus de ofupa. Savhi cas zoehe paogka elmuw kebvo tigur tozudbin onu ez ge ow fa jo. Vo hafu tob meupiz sik rof ed vu copupvu obu ek imofabume rubzekaw su lubahze tocnojpo mibruk. Umuwieb ulu difgasce laifa vonor debcod wuelo ed jivoh oh jirepiufe ez."
+  },
+  "apiKey": "c4fe743871718ee63cf0b6cb45060cbd487f93cc94a8554f7099a6684de7d4e0",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
