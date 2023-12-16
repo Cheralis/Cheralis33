@@ -1,0 +1,26 @@
+{
+  "name": "Emma Moss",
+  "age": 46,
+  "address": {
+    "street": "Demdar Point",
+    "city": "Enagapne",
+    "state": "ID",
+    "zip": "39880"
+  },
+  "contact": {
+    "phone": "(539) 271-6060",
+    "servicePhone": "800339388"
+  },
+  "birthday": "1983-12-16T12:06:32.083Z",
+  "ip": "80.83.121.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Opi najoem vo ira atiikidej daadetap mesa mu noeva cipju jedu don. Isiub fu ive serpih radimmun covle biwin ziwuv nivodewu nutwegce gohni dufostew ahucecen. Suprah li zi di ikioca zij nucpukej dedtog mi rozgukji nanara fu otaet fiihope tetabwep urafor.",
+    "bio": "Panigre zuz minno ur zelor ferafvot pup je dabude cezijner obe wezifapaz. Vuz gomafu sukzaaf ivjum di rideh civasu min fezuhro af cosu gako ujtumu cenhofcop. Joagjo buhtiltit baz oni roasahe haef udohontem re liz hujja irde na ced ufo. Meufeti gizajna zokuv aw ujosi warirzu nindejdo dun nojoziaro tunuv haemigih jejadsi rodtagab upusavlen zotuse ve eca. Vuiki ibo ijhan pegha rumiam omedidva evufu ecdohte redubcun cov wokmetig ho sipu jatjotdih rumauwu. Celkoise jemmenvo wapomcu iseseli ifoj cujil ataragen gatumcun cob ve adtul tiwow epjunfe go ta. Tofose cap copuwsu id podozke lakmobot hew huju kiveruz mal fetoge uzre wu tokbew si."
+  },
+  "apiKey": "7323f21705dac3de988dd472105e48d8456b65e94ce02f10c5c9105ea7e437c4",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
