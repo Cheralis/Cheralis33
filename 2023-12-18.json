@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Rice",
+  "age": 44,
+  "address": {
+    "street": "Coah River",
+    "city": "Jameneepa",
+    "state": "CA",
+    "zip": "03666"
+  },
+  "contact": {
+    "phone": "(344) 675-6712",
+    "servicePhone": "800435673"
+  },
+  "birthday": "1970-04-10T11:52:30.727Z",
+  "ip": "30.240.214.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Zobos jap hiwupoej jimopem pur robdu ohollo ki cenij upwetwap botedu wajo zozwofo. Ve bimbibze mez buome pempa dagoz tavvibo hogdiz sanbow gemluh comvu vukwufoc mameh avu sizew copiguwe. As ve uguvuzan divi ne iknozub ribpujek ritcol bolutizuw rahcu titkidku intas ilmawjo ugcu wogci.",
+    "bio": "Najiuta pucif ez cozosatej jala leda zuwjek cufedu ahuz vuk newpuvtan mujuwa ihom ve uvi al vewik. Hojoz ir ciwevabe wuha hignit faes azekopbe haromtaj mupagu vi mujpum buz. Cel ikude eti givireg voolocu ukowa si ruru fejizica ralaf cizocuw repsom."
+  },
+  "apiKey": "50175e6bd5de9375d9e935b8f9527e8a380d1ecafbc5a241d99d8ff5c52fce6b",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
