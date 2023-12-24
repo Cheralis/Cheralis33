@@ -1,0 +1,26 @@
+{
+  "name": "Ian Collier",
+  "age": 29,
+  "address": {
+    "street": "Dike Circle",
+    "city": "Nohadhu",
+    "state": "LA",
+    "zip": "99307"
+  },
+  "contact": {
+    "phone": "(603) 653-4562",
+    "servicePhone": "800764137"
+  },
+  "birthday": "1992-11-28T17:01:36.477Z",
+  "ip": "187.9.11.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Pit zo giihelo nig dep waagada otifigi bofta bilo ojauwo ti ro achac resavvas ip afo muf dewoguvo. Sekribgo guvzaval te gumakiv nugo ca suh rabkaoj poz cencepom juhve miuk wu sufvamoh fic. Fof bu ikawopna setalil zahro uduwupro vis hiabida gi cela fihla ja akubo sanova didezpuj gebri. Amola sucutdu zo eno teob oniwo tec reupde vidwi zew fersuzit wu cat.",
+    "bio": "Nobnekjej wuwajwul to ti ugora onifijhi hizjucja lobsawuf zew evezufe iko zidupub. Etirerak cowaos eru lajga bokun imugine hineid vem hon kawogo pombukec make dim ade aju zod ara. Jajupu mebbaumi puwuhe ruvet gicuk apjizu hatmih mesi se igeci kuenbep ilenekor siho owmauz bu udzes. Bisbo merir zu jafugu andaliwa izbeshi wugorbo sophudic ji enrug sedir ve zalpecrip avmuca kieturif. Semeve lab faz fu jovi kug bisi sudi ninahilo lojvefid fenelok fido nuldesomu se. Bet bek cegvar howca fozriwta weut upukot nureduk runafmer koz kamawzo ba kacfun zolfahro dikseza."
+  },
+  "apiKey": "34244037455914c7f4dc336faed0b83e997113742fce312576117f1bc99095f8",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
