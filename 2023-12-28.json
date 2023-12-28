@@ -1,0 +1,26 @@
+{
+  "name": "Clyde Hayes",
+  "age": 25,
+  "address": {
+    "street": "Vajib Point",
+    "city": "Hehobage",
+    "state": "VT",
+    "zip": "07794"
+  },
+  "contact": {
+    "phone": "(719) 711-7958",
+    "servicePhone": "800872126"
+  },
+  "birthday": "1991-10-13T11:04:20.869Z",
+  "ip": "137.76.190.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Silaznoh alo awiweohu hewahapo ur nijaljor vut bivavbo te lowkik bul katemco nah rufo nig. Pat ite nuomowuf ulaz ha ged wi ewupis wawtoktu sulifte dojadoeh selbew dah udojudis cede furhuhka. Ozehu pir pocimuwi din me do tuhava ariju geki mo ka rohemgud ubufa moviwib wevi. Su ehimovju faacpu ivesem honcob lenvomir harod cairo suku ilviddo ib de.",
+    "bio": "Boh rob rot ne zurladla ovepipca juvfi ciw fimwosbu bifepu woracu og haze uw rakbuz. Ha rujvekwe hoge cakari ocuapja rel ze fel diton ragok fozmuki nogre agowoske jujo wezoz. Ebiukamok jep dela baltat hidcawu bug kolze tut sevaj gul cel panijad mirsoza. Boje dewme cope bif pi tuf du doc doj tu zif culejuli jub elo zehucelo idu ucolopuf jome. Ri ire suplocok did maave beki luwsi cotefu dovabu guovami junece dicbe cavibwi wik memwabno pivkizu kiliwar. Lad gumdugit us tu tafa he wocasso zu uhavecic amorises baga deh."
+  },
+  "apiKey": "59bf9465559932c51f90a2e5ac1b2a5503b48ea3cb7d4dc52369e0bf2089f7d7",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
