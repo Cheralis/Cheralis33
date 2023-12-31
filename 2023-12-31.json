@@ -1,0 +1,26 @@
+{
+  "name": "Julia Myers",
+  "age": 35,
+  "address": {
+    "street": "Abkug Road",
+    "city": "Joczalzar",
+    "state": "NJ",
+    "zip": "65953"
+  },
+  "contact": {
+    "phone": "(633) 533-5492",
+    "servicePhone": "800269329"
+  },
+  "birthday": "1970-04-30T12:09:05.010Z",
+  "ip": "74.126.218.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Vic hohena ulivat ta micawmak ciwadan sem ujo lucep jevsi sa bop omidebo avuozme vut muvbobna pu rievemiv. Gahbev ifta nu kewlo wobadi vaco ko zojowo zil laswi taam kafucofo maivu detezno neklip kivvurare. Jope ikhitcik daccam meplonbac nogumu nuv gulna vof mojugzaj omo ecmumci nobawu.",
+    "bio": "Zokak haze kihifub hiabu agkujo to wuc reronva wavur kepo wo ziska la me zalva. Digapah etta dudujis lip efesewdej oho ke so sug sigajumi sadil fuwlir teh. Satozehe vehlo imeraluw we dohid dokonpo mihlar so ahi bom pewgozbi vo pifozji jefmulzal memgu wek gijbezrus. Homfapzi semgac nem ciwod zo ewoca loek baakji juv se tetij fahpinif jec migela ge kizi geuji isoikovi."
+  },
+  "apiKey": "dbdfc3a0b726a0a5fbe7bfaa29eb0539262893c14e04c2ac936e682b9d45e024",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
