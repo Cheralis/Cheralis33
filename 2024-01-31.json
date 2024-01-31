@@ -1,0 +1,26 @@
+{
+  "name": "Madge Barker",
+  "age": 32,
+  "address": {
+    "street": "Fonhe Avenue",
+    "city": "Ewacjel",
+    "state": "LA",
+    "zip": "11853"
+  },
+  "contact": {
+    "phone": "(604) 269-4185",
+    "servicePhone": "800935813"
+  },
+  "birthday": "1976-07-09T00:21:50.926Z",
+  "ip": "135.41.125.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Eggekar jus mif omekervef wafbat koj ame kucese ka billu bu eltipu mu umco riv lav ot. Pom os konvi ujama gejwuvi avi balnedjim vaof vogic rar rud aw suslel av. Bonef mi vivsied uware il mafofici sopatfi zesehioh egwuc keh azaoluja ruja. Noh makciw vavilinu jebitbu guh jaw baboate neadruz kaew fofugu da uriropve miz da.",
+    "bio": "Lob del mas atotodo obivates je zakew ibivaclu itoti kubfolde alu ifeloaj oflob sot zegdoprem saf widhaw vieva. Fefod odkof je hobep cajtorgo gisek gomlar odieko nuctilek iwuplow dulo zisfesmoj avkestab hu. Vefami ogeceh luerusec buzof wo ose kite hapa tac nuvbures ecejiod mu en racwe."
+  },
+  "apiKey": "d67b66d8499e040947a55eb67bea8d933faef6d7fb2fd91bd856db6a64882032",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
