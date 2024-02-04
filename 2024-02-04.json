@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Cohen",
+  "age": 56,
+  "address": {
+    "street": "Hais Highway",
+    "city": "Ligutevu",
+    "state": "AZ",
+    "zip": "63066"
+  },
+  "contact": {
+    "phone": "(428) 202-3166",
+    "servicePhone": "800277971"
+  },
+  "birthday": "1988-02-06T03:54:46.363Z",
+  "ip": "177.56.48.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Rafzuzaza naiza worzeg beefore ba ut evacmi ipideho gifotuj ar misa welsufvek zedofu beraf. Ivfeb ji pubadgak su fo sakkogen dafheege do pisi leize ecje moog pil. Puzdor lug li woub kelgezu bunezu ratuzovit es jowos sa maragaati nikle toficuci.",
+    "bio": "Celjawfi cimkara jinici guwupo hiop lalpevziw iwepefted vivdokdu olaah kumtug boce cejil ugma kuhvopud gobnameci ir. Gahniwmuh apvimu podmemo lavur gig kag guc jahgi colo sipilan evo vul kufevcoc puhoj vebakhi. Jo fiwlim subjijat dejlo faz colvewjir sohikcec pupebtab ga teaw fiugelak zivrigtaw ofogisbi ugukab."
+  },
+  "apiKey": "2836acf67f857bd249faf31a637356d6bcb6ba800907b355ce78eb6a562bb8c7",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
