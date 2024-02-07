@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Lane",
+  "age": 60,
+  "address": {
+    "street": "Cuhiw Path",
+    "city": "Geuteru",
+    "state": "AR",
+    "zip": "78695"
+  },
+  "contact": {
+    "phone": "(647) 651-1510",
+    "servicePhone": "800479335"
+  },
+  "birthday": "1999-06-01T14:05:05.795Z",
+  "ip": "54.85.220.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Kakinoci il asator tirdosso oti neb icsesa vun muparur gubuknim ub zalwucle okino gizwozal. Ohu foj gaozosoz afpi as ratpe kik kotlo ame idusa ka tupe wectidi. Wihosu ujmef hiztohtap jijpuj cavmot woew fapek detzopen hizki hi ezte jirojul. Sadimon moztomwu rigow ono douc nu okhiz fazpoj tuafzil gu tagwewuj lesrer owe patolum jovkes meprog pome lis. Acto sifaw kud pune mi levanur omhumtiv az gu igi adenaf vicogom gugil wimed nalalo sehgecat rivuk. Ropic vaw zuznuzar homcis uti mupaudo niiji zo om war sa teviom iso onteon.",
+    "bio": "Tunazbez simur lublade nodjukcu buwpoj boholi secpucbu wupasol ciicatu ujipu mubojre metvocor enu. Hacze peevus zoh ir se sok vesos hamwuub nitbib wawa jipigauha lac. Mi fesi fum uza le ahodiv ko kazfu semufas lehmaco vudcike rome."
+  },
+  "apiKey": "ae9e8f59622a9ef588d9e777f83123cf088d97ce7666c11759bb9e29bfbc1a6a",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
