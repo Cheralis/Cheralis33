@@ -1,0 +1,26 @@
+{
+  "name": "Ernest Mitchell",
+  "age": 25,
+  "address": {
+    "street": "Mumu Way",
+    "city": "Opavema",
+    "state": "IA",
+    "zip": "83386"
+  },
+  "contact": {
+    "phone": "(462) 420-8339",
+    "servicePhone": "800989528"
+  },
+  "birthday": "1959-09-25T23:56:10.912Z",
+  "ip": "246.158.98.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Jufek jaiz gisob gi osa tulcapwa gim luptulov ibefo biwibe jo lo po univijor jiv mozet vu ade. Vot ha vohaep igo borowwel obu ki jieviha azdace la ape aju ilsub ew ucenobe sadeos. Evaco uvanduc ibumu ikuce dasvewtit udi kujbuto hevavdud pidifmu ucufowo izedo bogi tat felan. Riduj zikez azlukdat voapo ec ge sez nap bajcumi wiwubi ra kipmu laha. Jat ju ew efkoawo nacefu ej ahkuwor ejuzu fovog nurdombad ji mev ideedaig muvit. Podbe vuli lodgefvi zi fir zeoki zono wejtaco opti teejuiri ji ahokzu liasa nejeduifu galzuavu. Masov te mo bij di jok ji jufazu begcoose ferulib toubnuw zasevvu zup cecijke mudte orso gigosuli hum.",
+    "bio": "Ami fezmohok ubobi zelad ufujih zasit toaboda vu ubiij invame puuho lok. Indur wo huwrev afjod vir jadmegut odirilzaz ofifec umedir muwsokin co dipiz lib ru hu. Buoviza ruw warazog rojzur bokoltil no mukzi riw amheda tic haw bo hozez wac jemomu nub. Num vef kohfi gonitu wakuwa tamgipi fez fudbejwil pu uwe ag lopkag kejuar. Sa vavijlo se jo wi na muzasuz luhmuf noro ifuac fo calas viren lid ifavtiz suwwuwiz ke. Rum uvvized ifhub ava jig co tecva eh zupasad kufuw figaac vez ugukucja lup zeddi zawezha."
+  },
+  "apiKey": "de2a19f6bc148f15103d43c17beebed98a051d11b4a88d331b8d8793ed801c12",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
