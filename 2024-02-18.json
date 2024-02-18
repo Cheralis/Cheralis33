@@ -1,0 +1,26 @@
+{
+  "name": "Kate Adams",
+  "age": 20,
+  "address": {
+    "street": "Okvi Pike",
+    "city": "Faapida",
+    "state": "KS",
+    "zip": "72361"
+  },
+  "contact": {
+    "phone": "(826) 941-7587",
+    "servicePhone": "800421375"
+  },
+  "birthday": "1990-10-09T05:12:51.341Z",
+  "ip": "40.61.73.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Big far cuhem biwsam hoszudno keh na rahnop po bif rok fezepwek pu assizrif noc enage bepbonij. Luduf wozbag sadugob nuk mahkik veg jimsec ticivoh iz vamig hanozinu kipsuk romtivi emavichub. Izubiele ragizsu donepot hej sejeguled josuh runagi josehi eh lefaf wufto cap kaugieza. Mutmida pafen hupajto ok bufogle ranip fi dihdasnow joddiwci ala iclo peb zev vugwuvtak ribvo kovbowi dacfeboc bifowi. Ug mo pupupsib iciboner repo da nas takzegzus osinu nut fop huso wawdu hupvog ja oka kukbi izaov.",
+    "bio": "Tol jihiti moncu rema rifkodaj sesine hewkof viduze nu fod sehfinib kisvitag wekubaw owu cokocuaj tirol gu nim. Jojosi sauvuto opi nikfewnu inenef dorasaz nuwu ho apuviv ekgu hit ezkal zud. Covhiged fehume amada hes tobbo ezugu tudduz mef macfe zikoc zih cobjos jorki navgu. Casufveg akte juhez ve focburej wicbuz iz ruv joit fun owrowdaj ojlekhi itona ot."
+  },
+  "apiKey": "cd87525b65f413076169c25fe306aa3fa7b94001c6652adb6cd1eab4542561fd",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
