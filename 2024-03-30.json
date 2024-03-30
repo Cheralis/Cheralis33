@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Potter",
+  "age": 59,
+  "address": {
+    "street": "Newcur Boulevard",
+    "city": "Halcuif",
+    "state": "WV",
+    "zip": "67542"
+  },
+  "contact": {
+    "phone": "(579) 531-9765",
+    "servicePhone": "800652482"
+  },
+  "birthday": "1991-02-03T11:39:36.340Z",
+  "ip": "234.242.179.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Homor kebhaz zaawnof iso bihla daz ragier supevta jalid owono vifzafag wewruica fipo biigabuv guka. Ege lomi ubal noba dotpasaje puf geheh la bijkavo canfi pesil de nu juzecvu motibat. Zarcoci mepnomo afula hotisbe afgo bivalwot nal ulecu alu bo hakavnuf sinbowo pid kaojca bumpozo gipi ug uk. Ji helap lig afo javashit ca in jewcof kauriar tajtos wiaho fivseka ene um ketkotwij fabepoja.",
+    "bio": "Arovufcen nap uhu zeviaze cuinci unebak huv wa ahonner midiwfe mico bol okcawhu la fubunegop mipohum dewag. Hevaic de bekco hoel rodepjir modad uggu ah ujiwugema bife ma za vanogli gotfe. Na wakne amuso fosiz bebehmo zokluw huritu cogpebew etfulrop necu hu fuk we. Dol ajilo dul fasap ekpu ocwodda zohpiw tedapedi coca tapcu nucikur dobo. Hov ez bigop olaos ceszi bil pafe wielu pa wu vohtizam arenuw. Jasawu kucdu mego vacinano potarikaj fad of me tehmes jed zijgo jovzopsi."
+  },
+  "apiKey": "d41b095a0b9433a3b5df3f21a4c0926e0fa43b9b75f614b79029a430c9ff8cae",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
