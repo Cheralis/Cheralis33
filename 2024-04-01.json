@@ -1,0 +1,26 @@
+{
+  "name": "Jared McCoy",
+  "age": 41,
+  "address": {
+    "street": "Gaih Mill",
+    "city": "Fabarsis",
+    "state": "OR",
+    "zip": "22997"
+  },
+  "contact": {
+    "phone": "(983) 344-6967",
+    "servicePhone": "800664164"
+  },
+  "birthday": "1965-07-27T12:08:42.843Z",
+  "ip": "123.248.104.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Gatgokib rufodu bogpotso jucwamwik fuvow aroim jonpat gu lejmuj ere di pibce. Me car ehusiror up coh galas isuahumu jad toklas iplav loekjec gij. Na puokwod cujjaske op aputecof fuvonazo vohav vo zapkon sam relbazu detutifa eko. Fejufol iwwelet hira umouloki jap mevbelebu legaede dut pej wan mu nudet tu.",
+    "bio": "Kowjah put gi dinuwzam piaka cilul ula daluc katmik dakip jokugip uwoib elu ocra ducsutori ibnefo. Cew monu ruup vesci letudfu taj guf egoato kocarvuf obufiszal josipovud joj. Zode ko niwerson bozci ohi udo utedukzi mugwaril tifi wozte tawesoga li vazse emomis keciv zac gafjez wahuf."
+  },
+  "apiKey": "04589810c1b87c7c5f29ff5c153f2b0ddbfad89fc0906811df4404e110c34b0d",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
