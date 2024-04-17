@@ -1,0 +1,26 @@
+{
+  "name": "Peter Edwards",
+  "age": 51,
+  "address": {
+    "street": "Umula Loop",
+    "city": "Jujabluj",
+    "state": "AK",
+    "zip": "94084"
+  },
+  "contact": {
+    "phone": "(621) 870-4958",
+    "servicePhone": "800721212"
+  },
+  "birthday": "1990-10-07T22:30:28.081Z",
+  "ip": "44.236.96.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Palupsot gemilo tapzo dit ra zuvu mo tis diepevo vovobak hennoviv uhenut cavbe fafo tini hepe goji somcaisu. Os ukcos co gobufda uholik umaze dabe azufa zagap ribare be samehara ut monroj nuuk barkepuve irce. Giihdor omemotwe du huf ladauje kasacku ubo vol di igo collem odwipek netutewez. Noovud riha deni bi calbaltov zonuwdo cofvedipu nopuw linrudjaz fowej da gejbag tanli jubwu jirgemame dewuhlo ufi ra.",
+    "bio": "Ob togasba fesgev kulic toaju li sawvuwdi mum va nudwu goezo golpaj tipuvru jesroojo noebited las ik fo. Konfi jura dipza vanawrun ufuhu aj fimwuv al fufal roj alaca kufu ton lugveeti kocdita wurilo. Uc acefezfu rovpub unu rogumbow pu eg ca hiurhe kem kunzuz hedgu noez. Mowraajo komne je ebi ujaphi fufet ma zut irewipe culo pakbipwi in li kewdaceg winsage icvow parujko. Ter lolpini supnunnu difore og ev ka deco edihuca muutu usrirfur voolomu oda."
+  },
+  "apiKey": "757fec13a940bb019512128f7957383f3b3014f9466b079e69358fb459535908",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
