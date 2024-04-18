@@ -1,0 +1,26 @@
+{
+  "name": "Hilda Ramsey",
+  "age": 25,
+  "address": {
+    "street": "Midut Street",
+    "city": "Cesogo",
+    "state": "MI",
+    "zip": "22798"
+  },
+  "contact": {
+    "phone": "(374) 446-4249",
+    "servicePhone": "800182635"
+  },
+  "birthday": "1978-01-28T13:46:04.703Z",
+  "ip": "146.142.10.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Rar voguw ic he fail diwhiw im if potattu avavu fosdin pol pos ij. Kocku bi jiephac vadinni kifar lagirit miffagu aju bipjagul tur bikooni tuz. Jon bipor guhgod uhipu tu nij tejo mosbezad zakhuak risi vuriraj iprac sefpu zaf firhidgo ipimi. Afuudatak eferdu orehah ka deare navub ob esiro nih zog divko womibu davzargo zini wosfu der.",
+    "bio": "Jufufoju gewa epo puvvun ta du geurbi pi zubhew sup vu hu uzne idpi bu. Fobbeg hichipfa cajal vaf go kicsejip zojbecum cozi relse ber jit bo gadcordo uta aviucija. Ojimecmiz dol cuduce ulivazi ovo opfe joj ladto hewido egzaz ruhjalen lotmun."
+  },
+  "apiKey": "db35c3ab01db4f08efd7b5b542280b42ec1083647f38fc8f4e0c8795deb36573",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
