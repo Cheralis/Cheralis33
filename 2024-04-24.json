@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Lopez",
+  "age": 38,
+  "address": {
+    "street": "Hegka Heights",
+    "city": "Satzikem",
+    "state": "WI",
+    "zip": "86607"
+  },
+  "contact": {
+    "phone": "(305) 651-5075",
+    "servicePhone": "800788532"
+  },
+  "birthday": "1989-05-20T19:37:00.618Z",
+  "ip": "233.130.54.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Om ineozeh giv wotenan iksumgat mason ujrajrap miznafo efe im tufbunni uf gecgo lusiusi saunowa kavod. Sipaoro luci iz razeido mebjok zizumra ta uwi ufjug nehew noidjo cadu vibvo gohjir opule gun. Lulsu bevipo wi rorbolab dosdimda wavwadnu zal moveib pujpusij jezecvub rezo dusrubtuh cupi dadokvo pezim wiw kem ajecele.",
+    "bio": "Fan viski fugdu uwleb ar ihe wime ofeisimok uhe si jufac nobicap sipfejo. Ojza etaij pisado anpa sige cajipbo di zulunfip dimturi maade ho omvo tionelop. No ojo vemzevpe akzi beitido uwjew rolof wef evi lemfad guefjun tuhod ussi ro dutcamkok ma. Es bolpapi mo obu ikahiv wizurcoc mioza idmek sujuvo kokunet baz li zoen zo vuli zab taz ezo. Barosido lahbi rot gunrohec hugefcac tu pioba ruh sutjetwo mi tozekvaz ituhiz bal. Ligpan hikvah fanila ifiosi moffa izmo com lubbuz nil baebneh awekihat ka hec hadihbi vugra."
+  },
+  "apiKey": "bbc1a08d87b8a409f480b4b34c54b90661cd580aac3665f84aed0300457d5136",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
